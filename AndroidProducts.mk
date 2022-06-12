@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_curtana.mk
+    $(LOCAL_DIR)/twrp_curtana.mk
 
-COMMON_LUNCH_CHOICES := omni_curtana-eng
+COMMON_LUNCH_CHOICES := twrp_curtana-eng
